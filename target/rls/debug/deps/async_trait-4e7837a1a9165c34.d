@@ -1,0 +1,10 @@
+/Users/iliashuianov/projects/rust_projects/rust-fullstack-vocab/target/rls/debug/deps/libasync_trait-4e7837a1a9165c34.dylib: /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/lib.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/args.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/expand.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/lifetime.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/parse.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/receiver.rs
+
+/Users/iliashuianov/projects/rust_projects/rust-fullstack-vocab/target/rls/debug/deps/async_trait-4e7837a1a9165c34.d: /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/lib.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/args.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/expand.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/lifetime.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/parse.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/receiver.rs
+
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/lib.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/args.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/expand.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/lifetime.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/parse.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.57/src/receiver.rs:

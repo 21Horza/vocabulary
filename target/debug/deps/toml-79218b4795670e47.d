@@ -1,0 +1,13 @@
+/Users/iliashuianov/projects/rust_projects/rust-fullstack-vocab/target/debug/deps/toml-79218b4795670e47.rmeta: /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/lib.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/map.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/value.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/datetime.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/ser.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/de.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/tokens.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/macros.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/spanned.rs
+
+/Users/iliashuianov/projects/rust_projects/rust-fullstack-vocab/target/debug/deps/toml-79218b4795670e47.d: /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/lib.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/map.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/value.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/datetime.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/ser.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/de.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/tokens.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/macros.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/spanned.rs
+
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/lib.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/map.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/value.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/datetime.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/ser.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/de.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/tokens.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/macros.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/spanned.rs:

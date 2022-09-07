@@ -1,0 +1,1 @@
+/Users/iliashuianov/projects/rust_projects/rust-fullstack-vocab/target/debug/libfrontend.rlib: /Users/iliashuianov/projects/rust_projects/rust-fullstack-vocab/common/src/lib.rs /Users/iliashuianov/projects/rust_projects/rust-fullstack-vocab/frontend/src/lib.rs

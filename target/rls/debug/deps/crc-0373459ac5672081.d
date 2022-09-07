@@ -1,0 +1,12 @@
+/Users/iliashuianov/projects/rust_projects/rust-fullstack-vocab/target/rls/debug/deps/crc-0373459ac5672081.rmeta: /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-3.0.0/src/lib.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-3.0.0/src/crc128.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-3.0.0/src/crc16.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-3.0.0/src/crc32.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-3.0.0/src/crc64.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-3.0.0/src/crc8.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-3.0.0/src/table.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-3.0.0/src/util.rs
+
+/Users/iliashuianov/projects/rust_projects/rust-fullstack-vocab/target/rls/debug/deps/crc-0373459ac5672081.d: /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-3.0.0/src/lib.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-3.0.0/src/crc128.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-3.0.0/src/crc16.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-3.0.0/src/crc32.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-3.0.0/src/crc64.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-3.0.0/src/crc8.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-3.0.0/src/table.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-3.0.0/src/util.rs
+
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-3.0.0/src/lib.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-3.0.0/src/crc128.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-3.0.0/src/crc16.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-3.0.0/src/crc32.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-3.0.0/src/crc64.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-3.0.0/src/crc8.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-3.0.0/src/table.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-3.0.0/src/util.rs:

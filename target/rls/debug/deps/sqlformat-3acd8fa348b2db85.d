@@ -1,0 +1,10 @@
+/Users/iliashuianov/projects/rust_projects/rust-fullstack-vocab/target/rls/debug/deps/sqlformat-3acd8fa348b2db85.rmeta: /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlformat-0.1.8/src/lib.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlformat-0.1.8/src/formatter.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlformat-0.1.8/src/indentation.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlformat-0.1.8/src/inline_block.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlformat-0.1.8/src/params.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlformat-0.1.8/src/tokenizer.rs
+
+/Users/iliashuianov/projects/rust_projects/rust-fullstack-vocab/target/rls/debug/deps/sqlformat-3acd8fa348b2db85.d: /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlformat-0.1.8/src/lib.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlformat-0.1.8/src/formatter.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlformat-0.1.8/src/indentation.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlformat-0.1.8/src/inline_block.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlformat-0.1.8/src/params.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlformat-0.1.8/src/tokenizer.rs
+
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlformat-0.1.8/src/lib.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlformat-0.1.8/src/formatter.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlformat-0.1.8/src/indentation.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlformat-0.1.8/src/inline_block.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlformat-0.1.8/src/params.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/sqlformat-0.1.8/src/tokenizer.rs:

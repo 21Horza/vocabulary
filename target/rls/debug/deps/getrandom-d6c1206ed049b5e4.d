@@ -1,0 +1,11 @@
+/Users/iliashuianov/projects/rust_projects/rust-fullstack-vocab/target/rls/debug/deps/getrandom-d6c1206ed049b5e4.rmeta: /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/lib.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/error.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/error_impls.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util_libc.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/use_file.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/macos.rs
+
+/Users/iliashuianov/projects/rust_projects/rust-fullstack-vocab/target/rls/debug/deps/getrandom-d6c1206ed049b5e4.d: /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/lib.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/error.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/error_impls.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util_libc.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/use_file.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/macos.rs
+
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/lib.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/error.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/error_impls.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util_libc.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/use_file.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/macos.rs:

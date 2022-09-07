@@ -1,0 +1,10 @@
+/Users/iliashuianov/projects/rust_projects/rust-fullstack-vocab/target/wasm32-unknown-unknown/debug/deps/gloo_utils-cd1d85719664bffd.rmeta: /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/lib.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/errors.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/iter.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/format/json.rs
+
+/Users/iliashuianov/projects/rust_projects/rust-fullstack-vocab/target/wasm32-unknown-unknown/debug/deps/libgloo_utils-cd1d85719664bffd.rlib: /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/lib.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/errors.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/iter.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/format/json.rs
+
+/Users/iliashuianov/projects/rust_projects/rust-fullstack-vocab/target/wasm32-unknown-unknown/debug/deps/gloo_utils-cd1d85719664bffd.d: /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/lib.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/errors.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/iter.rs /Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/format/json.rs
+
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/lib.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/errors.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/iter.rs:
+/Users/iliashuianov/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-utils-0.1.5/src/format/json.rs:
