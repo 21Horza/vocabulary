@@ -123,6 +123,11 @@ form {
     padding: 8px;
     display: flex;
     background-color: #000;
+
+    button:hover {
+        background-color: rgba(88, 88, 255, 0.754);
+    }
+    
 }
 
 .view_post {
@@ -184,7 +189,6 @@ form {
             color: rgb(159, 0, 0);
         }
     }
-
 }
 
 .view_details {
@@ -249,4 +253,9 @@ form {
         }
     }
 
+}
+
+.title {
+    margin: 2rem 0 1rem 0;
+    text-align: center;
 }

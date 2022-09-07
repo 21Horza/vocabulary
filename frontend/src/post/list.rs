@@ -71,24 +71,25 @@ impl Component for List {
         
         if let Some(p) = &self.posts {
             html! {
-                <div class="list">
+                <div>
+                    <h1 class="title"> {"List of words"} </h1>
                     { p.iter().map(|post| 
                         html! {
-                            <div class="view_post">
-                                <div class="word">{"Word:"}<h3>{&post.word}</h3></div>
-                                <div class="def">{"Definition:"}<h3>{&post.def}</h3></div>
-                                <div class="btns">
-                                    <button class="view_more">
-                                    <Link <AppRoute> to={AppRoute::ViewPost { id: post.id }}> 
-                                           { "View More" }
-                                    </Link<AppRoute>>
-                                    </button>
-                                    <button class="delete" onclick={
-                                        let id = post.id;
-                                        link.callback(move |_| Msg::MakeDelReq(id))
-                                    }>{"Delete"}</button>
+                                <div class="view_post">
+                                    <div class="word">{"Word:"}<h3>{&post.word}</h3></div>
+                                    <div class="def">{"Definition:"}<h3>{&post.def}</h3></div>
+                                    <div class="btns">
+                                        <button class="view_more">
+                                        <Link <AppRoute> to={AppRoute::ViewPost { id: post.id }}> 
+                                            { "View More" }
+                                        </Link<AppRoute>>
+                                        </button>
+                                        <button class="delete" onclick={
+                                            let id = post.id;
+                                            link.callback(move |_| Msg::MakeDelReq(id))
+                                        }>{"Delete"}</button>
+                                    </div>
                                 </div>
-                            </div>
                         }
                     ).collect::<Html>() }
                 </div>

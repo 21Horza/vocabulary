@@ -78,19 +78,24 @@ impl Component for Detail {
         match post {
             Some(p) => {
                 html! {
-                    <div class="view_details">
-                        <div class="id">{"ID:"}<h3>{&p.id}</h3></div>
-                        <div class="word">{"Word:"}<h3>{&p.word}</h3></div>
-                        <div class="def">{"Definition:"}<h3>{&p.def}</h3></div>
-                        <div class="pinyin">{"Pinyin:"}<h3>{&p.pinyin.as_deref().unwrap_or_default()}</h3></div>
-                        <div class="example">{"Example:"}<h3>{&p.example.as_deref().unwrap_or_default()}</h3></div>
-                        <div class="btns">
-                            <button onclick={onclick_back} class="back" >
-                                    { "Go back" }
-                            </button>
-                            <button onclick={onclick_delete} class="delete">{"Delete"}</button>
+                    <>
+                    <div class="title"> <h1>{"Detail Page"} </h1> </div>
+                        <div>
+                            <div class="view_details">
+                                <div class="id">{"ID:"}<h3>{&p.id}</h3></div>
+                                <div class="word">{"Word:"}<h3>{&p.word}</h3></div>
+                                <div class="def">{"Definition:"}<h3>{&p.def}</h3></div>
+                                <div class="pinyin">{"Pinyin:"}<h3>{&p.pinyin.as_deref().unwrap_or_default()}</h3></div>
+                                <div class="example">{"Example:"}<h3>{&p.example.as_deref().unwrap_or_default()}</h3></div>
+                                <div class="btns">
+                                    <button onclick={onclick_back} class="back" >
+                                            { "Go back" }
+                                    </button>
+                                    <button onclick={onclick_delete} class="delete">{"Delete"}</button>
+                                </div>
+                            </div>
                         </div>
-                    </div>
+                    </>
                 }
             }
             None => {
